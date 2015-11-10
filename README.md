@@ -6,7 +6,7 @@ Fortune Cookie Database
 This repository contains a *fortune cookie database*, intended to be used
 with programs like [BMC's Python *fortune* program][],
 [BMC's Go *fortune* program][], or the [BSD *fortune* program][].
-This is a severely edited anm extended database of the quotes collected by Brian Clapper.
+This is a severely edited and extended database of the quotes collected by Brian Clapper.
 
 ## Files
 
